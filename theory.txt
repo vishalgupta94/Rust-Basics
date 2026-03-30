@@ -1,3 +1,5 @@
 1. curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 2. cargo --version
 3. 
+
+07: build a struct and created a variable using that struct , and printed it

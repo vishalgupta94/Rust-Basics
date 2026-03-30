@@ -1,0 +1,23 @@
+{
+    "git.confirmSync": false,
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.openRepositoryInParentFolders": "always",
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.inlineSuggest.enabled": false,
+        "editor.quickSuggestions": {
+            "other": false,
+            "comments": false,
+            "strings": false
+            },
+        "editor.suggestOnTriggerCharacters": false
+    },
+    "git.ignoreRebaseWarning": true,
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.suggestSmartCommit": false
+}
